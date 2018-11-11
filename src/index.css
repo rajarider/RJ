@@ -1,0 +1,51 @@
+body {
+  background-color: #FFCC00;
+  padding: 0px;
+  margin: 0;
+}
+h1, h2, p, ul, li {
+  font-family: sans-serif;
+}
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+ul.header {
+  background-color: #0b247e;
+  padding: 0;
+  text-align: center;
+}
+ul.header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+.content {
+  background-color: #FFF;
+  padding: 20px;
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
+}
+ul.header{
+  margin-top: 0px;
+}
+.companyName{
+  float: left;
+  color: white!important;
+}
+.companyNumber{
+  float: right;
+  color: white!important;
+}
+.companyNumber i{
+  margin-right: 20px;
+}
+

@@ -1,0 +1,49 @@
+.firstFooterWrap{
+    background-color:#00c4ee;
+    padding: 10vh 0px 5vh 15vw;
+}
+
+.firstFooterWrap .contentWrap h4{
+    color: black;
+    
+    margin-bottom: 15px;
+    font-family: 'Josefin Slab', serif;
+    font-weight: bold
+}
+
+.firstFooterWrap .contentWrap h2{
+    color: white;
+    font-weight: bold;
+    margin-bottom: 0px;
+    font-family: 'Titillium Web', sans-serif;
+   
+}
+.secondFooterWrap{
+    background-color: #081340;
+    padding: 10vh 0px 5vh 15vw;
+    color: white;
+
+}
+.addressWrap h6, .followWrap h6, .contactWrap h6{
+    margin-bottom:1vh;
+    
+}
+.addressWrap span, .contactWrap span{
+    opacity: 0.5;
+    font-size: 12px;
+}
+.addressWrap p, .contactWrap p{
+    opacity: 0.5;
+    font-size: 12px; 
+}
+.fbIconWrap{
+    background-color: orange;
+    /* opacity: 0.5; */
+    padding: 10px!important;
+    top: 2vh;
+    position: relative;
+    border-radius: 50%;
+}
+.fbIconWrap i{
+    color: white;
+}
